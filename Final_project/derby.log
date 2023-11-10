@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Thu Nov 09 18:23:43 EST 2023:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018b-b666-0d8d-000034dfa220 
+Thu Nov 09 19:15:02 EST 2023:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-018b-b695-052b-000034f28198 
 on database directory /home/student/Workbench/ISM-6562-BigData/Final_project/metastore_db with class loader sun.misc.Launcher$AppClassLoader@f2a0b8e 
 Loaded from file:/home/student/miniconda3/envs/DEV01/lib/python3.11/site-packages/pyspark/jars/derby-10.14.2.0.jar
 java.vendor=Private Build
